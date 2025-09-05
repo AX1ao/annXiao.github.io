@@ -1,7 +1,9 @@
 ---
 layout: home
-title: Hi, I'm Ann Xiao 👋🏼
 ---
+
+## Hi, I'm Ann Xiao 👋🏼
+
 ##### 📄 [Download Résumé](/assets/resume.pdf)
 
 I recently completed my M.S. in Computer Science at NYU (2025) and hold a B.S. in Computer Science & Data Science from UW–Madison (2023).
