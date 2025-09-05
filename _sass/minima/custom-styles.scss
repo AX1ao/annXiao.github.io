@@ -1,0 +1,23 @@
+.project-title {
+  color: #887b8f; /* green */
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: #cc9042;
+}
+
+/* Change site title color */
+.site-title {
+  color: #cc9042 !important; /* orange, pick any hex */
+}
+
+
+a {
+  color: #cc9042 !important; /* orange */
+}
+
+a:hover {
+  color: #826642 !important; /* brighter orange on hover */
+}
