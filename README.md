@@ -1,6 +1,7 @@
 # Hi, welcome to my personal portfolio website 👋  
 
-## I'm a 2025 NG looking for Entry Level SDE jobs and is available to start working imm!
+My name is Ann Xiao.
+I'm a 2025 NG looking for Entry Level SDE jobs and is available to start working imm!
 
 Here you’ll find my projects, skills, and background as a software engineer.  
 
