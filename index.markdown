@@ -16,12 +16,19 @@ I’m actively seeking new graduate Software Engineer opportunities to apply my 
 
 ---
 
-## 🔸 Certifications
+## 🔸 Skill Sets
 
-| ---------------------------------------------------------- | ------------ |
-| CodePath Advanced Software Engineering                     | Jun–Aug 2022 |
-| AWS Machine Learning Foundations                           | Jun–Aug 2022 |
-| Google UX Design Professional                              | Jul–Aug 2024 |
+> **<span class="project-title">Programming Languages:</span>**  
+> <span class="IMPskills">Python, C, C++, Java,</span> <span class="skills">SQL, Rust, R, Scala, C#, JavaScript</span>
+
+> **<span class="project-title">Frameworks & Libraries:</span>**  
+> <span class="IMPskills">CUDA, OpenMP, PyTorch,</span> <span class="skills">TensorFlow, scikit-learn, Hugging Face Transformers, Spark, Hadoop, Kafka, React, Spring Boot, Vue.js</span>
+
+> **<span class="project-title">Tools & Platforms:</span>**  
+> <span class="IMPskills">Git, Linux/Unix, Docker, </span><span class="skills">Cassandra, Redis, Google Cloud Platform (GCP), MySQL</span>
+
+> **<span class="project-title">Additional Skills:</span>**  
+> <span class="skills">Parallel/Concurrent Programming, Data Analysis, Distributed Systems, Web Development</span>
 
 ---
 
@@ -94,3 +101,12 @@ I’m actively seeking new graduate Software Engineer opportunities to apply my 
 > - Built 2D platformer with physics (gravity, friction) and level design.  
 > - Implemented enemy AI + collision detection in C#.  
 > - Improved responsiveness and gameplay balance.  
+
+---
+
+## 🔸 Certifications
+
+| ---------------------------------------------------------- | ------------ |
+| CodePath Advanced Software Engineering                     | Jun–Aug 2022 |
+| AWS Machine Learning Foundations                           | Jun–Aug 2022 |
+| Google UX Design Professional                              | Jul–Aug 2024 |
